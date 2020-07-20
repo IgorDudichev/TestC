@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int		main()
+int		main(void)
 {
 	char c;
 
@@ -13,4 +13,3 @@ int		main()
 	printf("\n");
 	return (0);
 }
-	
